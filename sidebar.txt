@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xor:home|Door43 (xor)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xor|d43-xor repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xor/archive/master.zip|d43-xor.zip]]
+
+**Recent Changes**
+{{changes>ns = xor}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xor|Ethnologue data]]
+
